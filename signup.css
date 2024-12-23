@@ -1,0 +1,40 @@
+.card{
+    border: 1px solid black;
+margin-top: 100px;
+    
+}
+.child{
+    background-color: rgb(86, 208, 86);
+    height: 100px;
+    display: flex;
+    
+}
+main{
+    width: 300px;
+    margin-left:500px;
+    margin-right: 600px;
+}
+.but{
+    margin-left:60px ;
+    background-color: rgb(124, 212, 124);
+}
+.inp{
+    padding-top: 100px;
+    padding-left:60px ;
+    padding-right: 30px;
+    padding-bottom: 150px;
+    height: 20px;
+}
+.but:hover{
+    background-color: rgb(115, 115, 233);
+}
+.image{
+    width: 40px;
+    height: 40px;
+    padding-left: 30px;
+    padding-top: 30px;
+}
+.child h1{
+    padding-left: 20px;
+    padding-top: 10px;
+}
